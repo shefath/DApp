@@ -39,8 +39,5 @@ namespace DatingApp.API.Controllers
 
             return Ok(userToReturn);
         }
-
-
-
     }
 }
